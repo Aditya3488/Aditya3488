@@ -11,9 +11,9 @@
   <a href="https://linkedin.com/in/codeinreact" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" style="margin-right:10px;" />
   </a>
-  <a href="https://instagram.com/adit_ya3488" target="_blank">
+  <!-- <a href="https://instagram.com/adit_ya3488" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" style="margin-right:10px;" />
-  </a>
+  </a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
