@@ -1,33 +1,58 @@
+<!-- ======================= HEADER ======================= -->
+
 <h1 align="center">Hi 👋, I'm Aditya Narayan Tiwari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<ul>
-  <li>📫 How to reach me <b>adityatiwari062@gmail.com</b></li>
-</ul>
+<h3 align="center">
+  Frontend Developer • Shopify Developer • React Developer
+</h3>
 
-<h3 align="left">Connect with me:</h3>
-
-<p>
-  <a href="https://linkedin.com/in/codeinreact" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" style="margin-right:10px;" />
-  </a>
-  <!-- <a href="https://instagram.com/adit_ya3488" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" style="margin-right:10px;" />
-  </a> -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;Shopify+Developer;React+Developer;JavaScript+Enthusiast;Building+Modern+Web+Experiences"
+    alt="Typing SVG"
+  />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40" style="margin:5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" style="margin:5px;" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" style="margin:5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" style="margin:5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" style="margin:5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" style="margin:5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" style="margin:5px;" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" style="margin:5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" style="margin:5px;" />
-  <img src="https://reactnative.dev/img/header_logo.svg" height="40" style="margin:5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="40" style="margin:5px;" />
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
 </p>
+
+---
+
+<!-- ======================= ABOUT ME ======================= -->
+
+## 👨‍💻 About Me
+
+```javascript
+const aditya = {
+    name: "Aditya Narayan Tiwari",
+    role: "Frontend Developer",
+    experience: "2+ Years",
+    location: "India",
+
+    currentlyLearning: [
+        "React",
+        "JavaScript",
+        "Backend Development",
+        "System Design"
+    ],
+
+    workingWith: [
+        "Shopify",
+        "Liquid",
+        "JavaScript",
+        "React",
+        "HTML",
+        "CSS"
+    ],
+
+    interests: [
+        "Web Development",
+        "Frontend Architecture",
+        "Performance Optimization",
+        "Building Useful Products"
+    ]
+};
